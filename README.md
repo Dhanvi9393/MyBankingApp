@@ -43,16 +43,27 @@ flutter pub get
 flutter run
 
 Folder Structure:
+
 XNL-Banking/
+
 │── lib/
+
 │   ├── main.dart         # Entry point of the application
+
 │   ├── screens/          # All UI screens
+
 │   │   ├── login.dart    # Login screen
+
 │   │   ├── register.dart # Registration screen
+
 │   │   ├── home.dart     # Home screen with main functionalities
+
 │   ├── widgets/          # Reusable UI components
+
 │   ├── services/         # API and authentication services
+
 │── assets/               # Images, icons, animations
+
 │── pubspec.yaml          # Dependencies
 
 Usage
